@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project... it is about testing out all things that i learned in my Odin course. It will be website with few photos and links to some recipes i knew... I am from Czech Republic so i will be finding Czech recipes. 
